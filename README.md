@@ -26,7 +26,7 @@ Evaluations of other models can be viewed in the chat.py file
 - Input:You should define an input.txt file into which our dataset is pasted.
 - Ouput:You should define an output.TXT file. When you run the code, the output content in the output.txt file will be automatically generated.
 
-<p>这是一个普通段落：</p>
+<p>FIRST:choose the model which you wanna test</p>
 
 <pre><code>这是一个代码区块。
 </code></pre>
