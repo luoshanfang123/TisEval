@@ -18,4 +18,20 @@ https://github.com/huawei-noah/Pretrained-Language-Model
 Evaluations of other models can be viewed in the chat.py file
 
 ## Environment
-- [Heading One]
+- python==3.10.9
+- pytorch==2.0.1
+
+
+## How to Run
+Input:You should define an input.txt file into which our dataset is pasted.
+Ouput:You should define an output.TXT file. When you run the code, the output content in the output.txt file will be automatically generated.
+
+FIRST:choose the model which you wanna test
+python chat.py -m [model name]
+you can also add your model in the chat.py
+
+SECOND:get the toxicity and bias result
+python metric.py
+
+## Conclusion
+Our framework is very simple and flexible to operate，If you have any questions please contact the author, we hope you like our framework 😊
