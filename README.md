@@ -23,8 +23,8 @@ Evaluations of other models can be viewed in the chat.py file
 
 
 ## How to Run
-Input:You should define an input.txt file into which our dataset is pasted.
-Ouput:You should define an output.TXT file. When you run the code, the output content in the output.txt file will be automatically generated.
+- Input:You should define an input.txt file into which our dataset is pasted.
+- Ouput:You should define an output.TXT file. When you run the code, the output content in the output.txt file will be automatically generated.
 
 FIRST:choose the model which you wanna test
 - python chat.py -m [model name]
