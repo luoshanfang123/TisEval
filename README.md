@@ -28,14 +28,14 @@ Evaluations of other models can be viewed in the chat.py file
 
 <p>FIRST:choose the model which you wanna test</p>
 
-<pre><code>这是一个代码区块。
+<pre><code>- python chat.py -m [model name]
 </code></pre>
-FIRST:choose the model which you wanna test
-- python chat.py -m [model name]
 - you can also add your model in the chat.py
 
-SECOND:get the toxicity and bias result
-- python metric.py
+<p>SECOND:get the toxicity and bias result</p>
+
+<pre><code>- python metric.py
+</code></pre>
 
 ## Conclusion
 Our framework is very simple and flexible to operate，If you have any questions please contact the author, we hope you like our framework 😊
