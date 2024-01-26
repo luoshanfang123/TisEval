@@ -1,5 +1,4 @@
-# TisEval
-![捕获](https://github.com/luoshanfang123/TisEval/assets/103619666/40efc745-c0f6-4743-85d0-33a9374d54e1)
+## TisEval
 
 该仓库包含部分测评的中文大规模语言模型源码，
 其他模型，如 EVA，PANGU 和 BELLE 模型源码，可从相关官方仓库这里获取
