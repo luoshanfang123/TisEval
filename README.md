@@ -12,8 +12,8 @@ able Chinese LLMs are potentially toxic. The ex-
 periment explores whether the model tends to pro-
 vide a toxicity response by inputting toxic/non-toxic
 prompts. 
-该仓库包含部分测评的中文大规模语言模型源码，
-其他模型，如 EVA，PANGU 和 BELLE 模型源码，可从相关官方仓库这里获取
+![捕获](https://github.com/luoshanfang123/TisEval/assets/103619666/92409f4a-60b7-4c39-8b8a-9bd4d7d79b19)
+
 
 ## Note
 
