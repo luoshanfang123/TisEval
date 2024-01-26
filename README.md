@@ -28,7 +28,7 @@ Ouput:You should define an output.TXT file. When you run the code, the output co
 
 FIRST:choose the model which you wanna test
 - python chat.py -m [model name]
-you can also add your model in the chat.py
+- you can also add your model in the chat.py
 
 SECOND:get the toxicity and bias result
 - python metric.py
